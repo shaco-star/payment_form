@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This form design was inspired from frontend mentor challenge (https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
