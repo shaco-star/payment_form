@@ -2,8 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# This form design was inspired from frontend mentor challenge (https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw)
+# This form design was inspired from frontend mentor challenge 
+(https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw)
 
+![Payment Form](/form.png "Payment Form")
+![Payment Form](/form-2.png "Payment Form")
+![Payment Form](/form-3.png "Payment Form")
+![Payment Form](/form-mobile.png "Payment Form")
+![Payment Form](/form-error.png "Payment Form")
 
 
 ## Available Scripts
